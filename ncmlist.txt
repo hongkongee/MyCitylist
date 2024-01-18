@@ -1,0 +1,5 @@
+     도시명		국가명
+===============================
+    Moscow         Russia
+    Habana         Cuba
+    S.Petersburg   Russia

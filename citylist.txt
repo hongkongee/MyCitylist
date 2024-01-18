@@ -18,6 +18,12 @@
      Rome           Italy
      Madrid         Spain
 
+# 이슬람 도시 목록
+----------------
+     Teheran        Iran
+     Dubai          Arab Emirate
+     Istanbul       Turkey
+
 # 공산권 도시 목록
 -----------------
      Moscow         Russia

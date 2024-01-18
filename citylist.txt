@@ -1,10 +1,8 @@
      도시명		국가명
 ===============================
-     Seoul          S.Korea
-     Tokyo          Japan
-     Newyork        USA
      London         UK
      Berlin         Germany
      Warsaw         Poland
+     Rome           Italy
 
 

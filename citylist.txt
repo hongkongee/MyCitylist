@@ -1,6 +1,15 @@
      도시명		국가명
 ===============================
 
+# 관광지 목록
+---------------
+     Jeju           S.Korea
+     Hawaii         USA
+     Guam           USA
+     Singapore      Singapore
+     Bali           Indonesia
+     Zanzibar       Tanzania
+
 # 유럽 도시 목록
 ----------------
      London         UK

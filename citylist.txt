@@ -1,6 +1,5 @@
      도시명		국가명
 ===============================
-     Newyork        USA
      Moscow         Russia
      Beijing        China
      Hanoi          Vietnam

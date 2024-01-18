@@ -1,8 +1,18 @@
      도시명		국가명
 ===============================
+
+# 유럽 도시 목록
+----------------
      London         UK
      Berlin         Germany
      Warsaw         Poland
      Rome           Italy
      Madrid         Spain
 
+# 공산권 도시 목록
+-----------------
+     Moscow         Russia
+     Beijing        China
+     Hanoi          Vietnam
+     Habana         Cuba
+     Ulan bator     Mongolia

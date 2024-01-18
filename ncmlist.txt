@@ -3,3 +3,4 @@
     Moscow         Russia
     Habana         Cuba
     S.Petersburg   Russia
+    Vladivostok    Russia

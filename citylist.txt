@@ -3,6 +3,8 @@
      Seoul          S.Korea
      Tokyo          Japan
      Newyork        USA
-
+     Moscow         Russia
+     Beijing        China
+     Hanoi          Vietnam
 
 

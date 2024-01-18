@@ -4,3 +4,4 @@
     Hanoi          Vietnam
     Ulan bator     Mongolia
     Shanghai       China
+    Saigon         Vietnam

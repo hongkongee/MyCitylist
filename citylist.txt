@@ -1,6 +1,7 @@
      도시명		국가명
 ===============================
-
-
+     Teheran        Iran
+     Dubai          Arab Emirate
+     Istanbul       Turkey
 
 

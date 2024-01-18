@@ -1,6 +1,8 @@
      도시명		국가명
 ===============================
-
+     Jeju           S.Korea
+     Hawaii         USA
+     Guam           USA
 
 
 

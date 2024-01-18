@@ -1,0 +1,6 @@
+     도시명		국가명
+===============================
+    Beijing        China
+    Hanoi          Vietnam
+    Ulan bator     Mongolia
+    Shanghai       China
